@@ -6,7 +6,7 @@ public class CourseBean {
 		this.nome="";
 	}
 	
-	
+	//ok
 	public int getCodiceCorso() {
 		return codiceCorso;
 	}
